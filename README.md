@@ -1,4 +1,4 @@
-' T3A5
+T3A5
 ## Etapa 1. Descripcion del problema
 
 Desarrolla una aplicación de cajero automático en Java en la cual se muestre un menú para seleccionar la operación requerida por el usuario:
