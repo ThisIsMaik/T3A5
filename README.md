@@ -39,4 +39,8 @@ Salir
 ## Etapa 3. desarrollo de la solución
 
 ![](https://github.com/ThisIsMaik/T3A5/blob/main/T3A5.png?raw=true)
+
+## Etapa 4. Diseño de la solución
+
+https://github.com/ThisIsMaik/T3A5/blob/main/T3A5_BBsis.zip
                                                            
